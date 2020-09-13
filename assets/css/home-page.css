@@ -711,9 +711,14 @@
   background: #220c08;
 }
 
+.presentation-page [data-background-color="dark-blue"],
+.index-page [data-background-color="dark-blue"] {
+  background: #0a1a25;
+}
+
 .presentation-page .page-header,
 .index-page .page-header {
-  background: #d0aea8;
+  background: #0a1a25;
 }
 
 .index-page .rellax-text-container {
